@@ -3,3 +3,4 @@ torchvision>=0.15.0
 omegaconf~=2.1.2
 hydra-core==1.1.2
 tensorboard
+flwr
